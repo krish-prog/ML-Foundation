@@ -1,5 +1,7 @@
+#Python for ML 
 
 
+#list 
 '''a= [5, 12, 7,11, 18]
 b= []
 for i in a: 
@@ -628,5 +630,6 @@ sub = X - x_mean
 
 
 print(sub)
+
 
 
