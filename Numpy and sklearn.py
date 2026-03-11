@@ -138,21 +138,6 @@ print(new_array)
 
 '''
 
-# task 3 
-'''Replace values:
-
-if value > 25 → keep value
-
-else → put 0'''
-
-'''
-import numpy as np
-
-X = np.array([10, 20, 30, 40])
-clean = np.where(X>25,X,0)
-print(clean)'''
-
-
 
 
 
